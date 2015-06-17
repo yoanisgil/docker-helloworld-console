@@ -1,4 +1,4 @@
-Hello World (console version)
+Docker Hello World in PHP (console version)
 ================================
 
 A minimalistic example of a PHP Hello World application using Docker.
